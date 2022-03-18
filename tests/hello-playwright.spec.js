@@ -16,4 +16,5 @@ test('basic test', async ({ page }) => {
 
 //To run as headless use the command npx playwright test
 
-//To run as headed browser use the command npx playwright test --headed
+
+
